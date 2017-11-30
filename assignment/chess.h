@@ -10,3 +10,9 @@
  * Basic chess functions.
  * ----------------------------------------------------------
  */
+#ifndef ___CHESS
+#define ___CHESS
+struct ChessPiece {
+  int x;
+}
+#endif
